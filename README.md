@@ -2,6 +2,8 @@
 
 [app.pasta.to](https://app.pasta.to)
 
+![image](https://user-images.githubusercontent.com/15372551/210092084-138afcd8-16ac-45f4-869b-efbfb7e11ffc.png)
+
 Pasta is a simple and secure clipboard sharing tool for individuals and teams. With Pasta, you can easily share the contents of your clipboard, text, images and files anyone in real-time across multiple devices bidirectionally using Ctrl+C+C.
 
 Supported OSes: Windows, Mac, iOS, and Android. (Linux WIP)
@@ -17,7 +19,7 @@ Supported OSes: Windows, Mac, iOS, and Android. (Linux WIP)
 - (WIP) Invite other users to your boards
 
 ## Getting Started
-Warning: as Pasta is in public beta, you may lose of data as the app develops and changes internally, do not send anything critical!
+**Warning**: as Pasta is in public beta, you may lose your data as the app develops and changes internally, do not send anything critical!
 
 To get started with Pasta, follow these steps:
 
